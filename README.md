@@ -7,7 +7,7 @@ Add extra features to onlyfans-downloader.com and download even more.
 1. Download this extension as a [ZIP file from GitHub](https://github.com/xinghe186/of-chrome-extension/archive/refs/heads/main.zip)
 2. Unzip the file and you should have a folder named `chrome-extension-main`
 3. Visit the URL `chrome://extensions` and enable `Developer mode`
-4. Drag and drop the `chrome-extension-main` folder anywhere onto the extensions page to install it (do not delete the folder afterwards)
+4. Drag and drop the `of-chrome-extension-main` folder anywhere onto the extensions page to install it (do not delete the folder afterwards)
 
 ### :thinking: Why not from the Chrome Web Store?
 
